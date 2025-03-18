@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+fpdf
+
+#AIzaSyCe1uBjYi7iAJoL8yGQRCPKP8I_dV3ofDA
